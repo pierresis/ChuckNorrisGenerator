@@ -1,0 +1,16 @@
+.container {
+  h1,
+  h2,
+  h3 {
+    padding-top: 1em;
+    text-align: center;
+  }
+
+  button {
+    position: relative;
+    margin-top: 1em;
+    left: 50%;
+    transform: translateX(-50%);
+    text-transform: uppercase;
+  }
+}

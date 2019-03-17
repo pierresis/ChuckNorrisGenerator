@@ -1,2 +1,0 @@
-# ChuckNorrisGenerator
-Created with CodeSandbox
